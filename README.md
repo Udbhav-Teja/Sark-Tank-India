@@ -4,10 +4,16 @@
 
 **Introduction**
 
+Shark Tank India is a reality TV show that brings together aspiring entrepreneurs and a panel of successful business moguls, known as "Sharks", who have the means and expertise to invest in promising startup ventures. The show's first season featured a total of 67 deals, with the Sharks investing a total of over ₹81 crore in various startups. The most active investor was Namita Thapar, who invested in over 25 startups. Other active investors included Aman Gupta, Peyush Bansal, and Anupam Mittal.
 
-Welcome to SharkTank India! This README file provides an overview of the investments made by the esteemed panel of "Sharks" during Season 1 of the show. SharkTank India is a reality TV series that brings together aspiring entrepreneurs and a panel of successful business moguls, known as "Sharks," who have the means and expertise to invest in promising startup ventures.
+The sharks were particularly interested in businesses that were focused on the health and wellness sector, as well as businesses that were using technology to solve real-world problems. Shark Tank India has had a significant impact on the Indian startup ecosystem, helping to raise awareness of entrepreneurship and providing a platform for startups to showcase their ideas. The show has also helped to connect startups with investors, which has led to the funding of many new businesses.
 
-Shark Tank India is an Indian reality television series based on the American show Shark Tank. The show features entrepreneurs pitching their business ideas to a panel of investors, known as "sharks", in the hope of securing investment. The sharks are successful business people who have made their own fortunes, and they are looking for the next big thing.
+Here are some additional points from the text:
+
+* Shark Tank India is based on the American show Shark Tank.
+* The sharks on Shark Tank India are successful businesspeople who have made their own fortunes.
+* The sharks are looking for the next big thing.
+* Shark Tank India has had a significant impact on the Indian startup ecosystem.
 
 
 **Investments Made**
