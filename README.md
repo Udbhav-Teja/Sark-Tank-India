@@ -40,6 +40,7 @@ Shark Tank India has had a significant impact on the Indian startup ecosystem. T
 Shark Tank India is a popular show that has had a positive impact on the Indian startup ecosystem. The show has helped to raise awareness of entrepreneurship and has given a platform to startups to showcase their ideas. The show has also helped to connect startups with investors, which has led to the funding of many new businesses.
 
 
+
 **Additional Information**
 
 * The sharks on Shark Tank India are:
