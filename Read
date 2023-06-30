@@ -1,0 +1,10 @@
+**Difference Between Forecasting & Predictive Modeling**
+
+Both forecasting and predictive algorithms are applied to address cumbersome challenges related to business planning, customer behavior, and decision-making. But, nevertheless, these techniques differ. 
+
+Forecasting modeling implies analysis of past and present data to find patterns, or trends, which allow us to estimate the probability of future events. In contrast to predicting, forecasting modeling should have traceable logics. Typical use cases include a forecast for energy consumption in the following 6–12 months, an evaluation of how many customers will reach support in the next 7 days, or how many agreements for the supply are expected to be signed. All this could be forecasted based on previous (historical) data. 
+
+Predictive modeling is the process of applying AI and data mining to assess more detailed, specific outcomes and use much more diverse data types. The difference between predictive and forecasting modeling is blurred, still, we can consider an example to understand it better. Just imagine that a credit institution plans to launch a new premium card. At this point, two questions may arise. 
+
+The first will probably be, how many cards will be issued in the next 6 months? Forecasting modeling will help us find an answer to this question thanks to analysis of similar products launched in the past.But we still don’t know whom we can recommend this card to. Here predictive modeling comes into play. It enables us to analyze a customer information database with such fields as age, salary, preferences, consumer habits, etc. With this approach, we will eventually understand which clients are more likely to use this card.         
+
