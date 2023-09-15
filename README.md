@@ -48,13 +48,9 @@ Shark Tank India is a popular show that has had a positive impact on the Indian 
     * Emma Grede. Recurring Shark.
     * Peter Jones CBE. Recurring Shark.
 
-    * Peyush Bansal, Co-founder and CEO of Lenskart
-    * Anupam Mittal, Founder and CEO of People Group
-    * Vineeta Singh, Co-founder, and CEO of Sugar Cosmetics
-    * Amit Jain, CEO of CarDekho
-* The most active investor on Shark Tank India is Namita Thapar, who has invested in over 25 startups.
-* The sharks have invested a total of over ₹81 crores in various startups since the first season of Shark Tank India aired in 2021.
-* Shark Tank India has helped to raise awareness of entrepreneurship and has given a platform to startups to showcase their ideas.
+
+* The sharks have invested Millions of their money into startups since the first season of Shark Tank US.
+* Shark Tank US has helped to raise awareness of entrepreneurship and has given a platform to startups to showcase their ideas.
 * The show has also helped to connect startups with investors, which has led to the funding of many new businesses.
 
 I hope this read-me file has been informative.
